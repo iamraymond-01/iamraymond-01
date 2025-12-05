@@ -28,7 +28,7 @@ I believe in writing code that is not just functional but intentional - clean, t
 • TypeScript <br>
 • Performance monitoring and analytics
 
-### 🚀 What I Bring to the Table <br>
+### 🚀 What I Offer <br>
 • **End-to-End Development** - Seamless integration from UI/UX to database <br>
 • **Performance Optimization** - Fast-loading applications with efficient code, <br>
 • **Clean Architecture** - Maintainable, scalable, and well-documemented codebases. <br>
