@@ -6,7 +6,7 @@ I build modern, scalable full-stack web appplications using MongoDB, Express, Re
 From dynamic front-end interfaces to robust back-end architectures, I thrive on turning complex problems into elegant, efficient digital solutions. <br>
 I believe in writing code that is not just functional but intentional - clean, tested, and scalable. The best applications emerge when elegant design meets solid engineering principles.
 
-### 🛠️ Skills <br>
+### 🛠️ Tech Stack <br>
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
