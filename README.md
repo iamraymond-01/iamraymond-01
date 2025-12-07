@@ -3,8 +3,9 @@
 ## MERN Stack Developer
 
 I build modern, scalable full-stack web appplications using MongoDB, Express, React.js and Node.js.
-From dynamic front-end interfaces to robust back-end architectures, I thrive on turning complex problems into elegant, efficient digital solutions. <br>
-I believe in writing code that is not just functional but intentional - clean, tested, and scalable. The best applications emerge when elegant design meets solid engineering principles.
+From dynamic front-end interfaces to robust back-end architectures.
+I believe in writing code that is not just functional but intentional - clean, tested, and scalable. 
+I thrive on turning complex problems into elegant, efficient digital solutions.
 
 ### 🛠️ Tech Stack <br>
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 
@@ -29,8 +30,8 @@ I believe in writing code that is not just functional but intentional - clean, t
 • Performance monitoring and analytics
 
 ### 🚀 What I Offer <br>
-• **End-to-End Development** - Seamless integration from UI/UX to database <br>
-• **Performance Optimization** - Fast-loading applications with efficient code, <br>
+• **End-to-End Development** - Seamless integration from UI/UX to database. <br>
+• **Performance Optimization** - Fast-loading applications with efficient code. <br>
 • **Clean Architecture** - Maintainable, scalable, and well-documemented codebases. <br>
 • **API Excellence** - Robust, secure and well-documented RESTful APIs.
 
