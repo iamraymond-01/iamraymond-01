@@ -27,7 +27,7 @@ I thrive on turning complex problems into elegant, efficient digital solutions.
 
 ### 🍀Currently Exploring <br>
 • TypeScript <br>
-• Performance monitoring and analytics
+• Tailwind CSS
 
 ### 🚀 What I Offer <br>
 • **End-to-End Development** - Seamless integration from UI/UX to database. <br>
