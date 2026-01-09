@@ -41,7 +41,3 @@ I'm always open to discussing innovative projects, technical challenges, or pote
 • **Linkedln:** [Raymond Oladunjoye](https://www.linkedin.com/in/raymond-oladunjoye-23968a284) <br>
 • **Email:** raymondoladunjoye@gmail.com <br>
 • **Twitter:** [@iamraymond_01](https://x.com/iamraymond_01?s=09)
-
-##
-### 💡 Open to Opportunities
-Looking for roles where I can contribute to meaningful projects with cutting-edge technology. Whether it is building from scratch or optimizing existing systems, let's create something amazing together.
