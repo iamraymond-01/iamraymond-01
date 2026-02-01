@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Raymond Oladunjoye
 
-## MERN Stack Developer
+## Web Developer (MERN-Stack)
 
 I build modern, scalable full-stack web appplications using MongoDB, Express, React.js and Node.js.
 From dynamic front-end interfaces to robust back-end architectures.
