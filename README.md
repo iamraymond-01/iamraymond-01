@@ -1,11 +1,14 @@
 ## Hi 👋 My name is Raymond Oladunjoye
 
-## Web Developer (MERN-Stack)
+## Web Developer
 
 I build modern, scalable full-stack web appplications using MongoDB, Express, React.js and Node.js.
 From dynamic front-end interfaces to robust back-end architectures.
 I believe in writing code that is not just functional but intentional - clean, tested, and scalable. 
-I thrive on turning complex problems into elegant, efficient digital solutions.
+I studied Biochemistry, which strengthened my critical thinking, problem-solving ability, attention to detail, and organizational skills.
+I enjoy listening to music while coding.
+
+• 🍀 I'm currently developing an online marketplace that connects artists and art enthusiasts, enabling creators to showcase and sell their crafts while allowing users to discover and purchase unique pieces.
 
 ### 🛠️ Tech Stack <br>
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 
@@ -25,10 +28,6 @@ I thrive on turning complex problems into elegant, efficient digital solutions.
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-### 🍀Currently Exploring <br>
-• TypeScript <br>
-• Tailwind CSS
-
 ### 🚀 What I Offer <br>
 • **End-to-End Development** - Seamless integration from UI/UX to database. <br>
 • **Performance Optimization** - Fast-loading applications with efficient code. <br>
@@ -38,6 +37,6 @@ I thrive on turning complex problems into elegant, efficient digital solutions.
 ### 🤝 Let's Connect & Collaborate <br>
 I'm always open to discussing innovative projects, technical challenges, or potential collaborations. <br>
 • **Portfolio:** <br>
-• **Linkedln:** [Raymond Oladunjoye](https://www.linkedin.com/in/raymond-oladunjoye-23968a284) <br>
 • **Email:** raymondoladunjoye@gmail.com <br>
+• **Linkedln:** [Raymond Oladunjoye](https://www.linkedin.com/in/raymond-oladunjoye-23968a284) <br>
 • **Twitter:** [@iamraymond_01](https://x.com/iamraymond_01?s=09)
