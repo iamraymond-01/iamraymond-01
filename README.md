@@ -28,12 +28,6 @@ I enjoy listening to music while coding.
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-### 🚀 What I Offer <br>
-• **End-to-End Development** - Seamless integration from UI/UX to database. <br>
-• **Performance Optimization** - Fast-loading applications with efficient code. <br>
-• **Clean Architecture** - Maintainable, scalable, and well-documemented codebases. <br>
-• **API Excellence** - Robust, secure and well-documented RESTful APIs.
-
 ### 🤝 Let's Connect & Collaborate <br>
 I'm always open to discussing innovative projects, technical challenges, or potential collaborations. <br>
 • **Portfolio:** <br>
